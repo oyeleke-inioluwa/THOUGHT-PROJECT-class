@@ -1,0 +1,74 @@
+h2{ 
+    /* background-color: #ded7d7; */
+    font-family: sans-serif;
+    font-size: 50.5327px;
+    font-weight: 600px;
+    color: RGBA (0,0,0,0);
+    margin-bottom: 10px;
+    align-content: center;
+}
+p{
+    font-size: 25.2663PX;
+    font-weight: 400PX;
+    font-family:sans-serif ;
+}
+a {
+    color: red;
+    text-decoration: underline;
+}
+label {
+    font-size: 22.2344px;
+    font-family: sans-serif;
+    font-weight: 600px;
+    color: black;
+}
+input{
+    font-size: 20.2131px;
+    line-height: 23.245px;
+    height: 40px;
+    width: 19em;
+    color: RGB(0,0,0);
+}
+
+.button {
+    background: red;
+    border: none;
+    width: 130px;
+    color: white;
+    font-size: 23px;
+    height: 45px;
+    margin-left: -4px;
+    font-weight: bold;
+    border-radius: 2px;
+}
+
+.get {
+    font-weight: 100px;
+    font-size: 30px;
+}
+p {
+    /* font-family: Calibre, system-ui, -apple-system, BlinkMacSystemFont, "Avenir Next", Avenir, "Segoe UI", "Lucida Grande", "Helvetica Neue", Helvetica, "Fira Sans", Roboto, Noto, "Droid Sans", Cantarell, Oxygen, Ubuntu, "Franklin Gothic Medium", "Century Gothic", "Liberation Sans", sans-serif
+    font-size: 20.2131px
+    font-style: normal
+    font-variant-caps: normal
+    font-variant-east-asian: normal
+    font-variant-ligatures: normal
+    font-variant-numeric: normal
+    font-weight: 400 ; */
+}
+a {
+    text-decoration: none;
+}
+a {
+    margin-top: 10px;
+    font-size: 20px;
+    font-weight: lighter;
+
+}
+.name {
+    font-size: 12.1278px;
+}
+
+.how {
+    font-size: 20px;
+}
